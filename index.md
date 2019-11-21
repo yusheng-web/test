@@ -32,3 +32,8 @@ page
 <h2>{{ '1' | plus:'11' }}</h2>
 
 <h2>{{ 5 | times:4 }}</h2>
+h1>Hello {{ 'i am fine' | upcase }}</h1>
+
+<h2>{{ '1' | plus:'11' }}</h2>
+
+<h2>{{ 5 | times:4 }}</h2>
